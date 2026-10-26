@@ -1,0 +1,6 @@
+Flask>=3.0,<4
+Flask-Cors>=4.0,<7
+Pillow>=10,<13
+numpy>=1.26,<3
+torch>=2.2,<3
+torchvision>=0.17,<1
